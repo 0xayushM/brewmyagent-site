@@ -1,0 +1,42 @@
+{
+  "name": "BrewMyAgent",
+  "tagline": "We Brew Intelligence",
+  "shortDescription": "AI automation, brand design & web development studio.",
+  "description": "BrewMyAgent is a full-service AI & digital studio. We build intelligent automation tools, craft standout brands, and develop high-performance websites — helping businesses unlock their next level of growth.",
+  "founded": "2022",
+  "contact": {
+    "email": "hello@brewmyagent.com",
+    "phone": "+91 98765 43210",
+    "address": "Mumbai, India",
+    "social": {
+      "instagram": "https://instagram.com/brewmyagent",
+      "linkedin": "https://linkedin.com/company/brewmyagent",
+      "twitter": "https://twitter.com/brewmyagent",
+      "github": "https://github.com/brewmyagent"
+    }
+  },
+  "stats": [
+    { "label": "Projects Delivered", "value": "50+" },
+    { "label": "AI Agents Built", "value": "30+" },
+    { "label": "Happy Clients", "value": "40+" },
+    { "label": "Years Active", "value": "3+" }
+  ],
+  "values": [
+    {
+      "title": "Move Fast",
+      "description": "We ship fast without compromising quality. Speed is a feature."
+    },
+    {
+      "title": "Build Smart",
+      "description": "AI-first thinking in every project. We don't just build — we automate."
+    },
+    {
+      "title": "Design Bold",
+      "description": "We believe great design is the difference between forgettable and iconic."
+    },
+    {
+      "title": "Stay Honest",
+      "description": "Transparent communication, realistic timelines, and real results."
+    }
+  ]
+}

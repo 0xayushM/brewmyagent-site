@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Accountables",
+    "category": "AI Automation",
+    "description": "An AI-powered accountability platform that automates task tracking, deadline nudges, and progress reporting for remote teams.",
+    "image": "/images/projects/accountables.png",
+    "url": "https://accountables.in",
+    "year": "2024",
+    "technologies": ["Next.js", "OpenAI", "Supabase", "Tailwind"]
+  },
+  {
+    "id": 2,
+    "title": "Ashland",
+    "category": "Brand & Web",
+    "description": "Full brand identity and website design for Ashland — a premium lifestyle brand, built for conversion and presence.",
+    "image": "/images/projects/ashland.png",
+    "url": "https://ashland.in",
+    "year": "2024",
+    "technologies": ["Figma", "Next.js", "GSAP", "Tailwind"]
+  },
+  {
+    "id": 3,
+    "title": "BeeBee Advisory",
+    "category": "Web Development",
+    "description": "Corporate website for BeeBee Advisory — a financial consulting firm — designed to build trust and drive client inquiries.",
+    "image": "/images/projects/beebeeadvisory/beebeeadvisory.png",
+    "video": "/images/videos/beebeeadvisory/full.mp4",
+    "url": "https://beebeeadvisory.com",
+    "year": "2023",
+    "technologies": ["React", "Node.js", "Framer Motion"]
+  },
+  {
+    "id": 4,
+    "title": "Beyond Space",
+    "category": "AI + Web",
+    "description": "AI-driven interior design discovery platform. Users describe a space and the AI generates mood boards, material palettes and vendor suggestions.",
+    "image": "/images/projects/beyondspace/cover.png",
+    "video": "/images/videos/beyondspace/full.mp4",
+    "url": "https://beyondspace.in",
+    "year": "2024",
+    "technologies": ["Next.js", "Stable Diffusion", "OpenAI", "Prisma"]
+  },
+  {
+    "id": 5,
+    "title": "Diksha Mahajan",
+    "category": "Brand & Portfolio",
+    "description": "Personal brand identity and portfolio site for Diksha Mahajan — influencer and content creator — optimised for bookings and brand deals.",
+    "image": "/images/projects/dikshamahajan/dikshamahajan.png",
+    "video": "/images/videos/dikshamahajan/full.mp4",
+    "url": "https://dikshamahajan.com",
+    "year": "2023",
+    "technologies": ["Figma", "Next.js", "Framer Motion"]
+  },
+  {
+    "id": 6,
+    "title": "Edhway",
+    "category": "AI Education",
+    "description": "EdTech platform with an AI tutor that adapts lesson plans to each student's pace, strengths, and learning style.",
+    "image": "/images/projects/edhway/cover.png",
+    "video": "/images/videos/edhway/full.mp4",
+    "url": "https://edhway.com",
+    "year": "2024",
+    "technologies": ["React", "Python", "LangChain", "PostgreSQL"]
+  },
+  {
+    "id": 7,
+    "title": "GRRK",
+    "category": "Brand & Web",
+    "description": "Bold brand identity and e-commerce website for GRRK — a streetwear label built for the Gen-Z market.",
+    "image": "/images/projects/grrk/grrk.png",
+    "video": "/images/videos/grrk/full.mp4",
+    "url": "https://grrk.in",
+    "year": "2024",
+    "technologies": ["Shopify", "Figma", "Custom CSS"]
+  },
+  {
+    "id": 8,
+    "title": "Trident",
+    "category": "AI Automation",
+    "description": "Trident automates end-to-end sales workflows — from lead capture to proposal generation — using a network of specialised AI agents.",
+    "image": "/images/projects/trident/trident.png",
+    "video": "/images/videos/trident/full.mp4",
+    "url": "https://tridentai.in",
+    "year": "2025",
+    "technologies": ["Python", "AutoGen", "FastAPI", "React"]
+  },
+  {
+    "id": 9,
+    "title": "Vinayak Technoplast",
+    "category": "Web Development",
+    "description": "Industrial manufacturing website for Vinayak Technoplast, complete with product catalogues, inquiry forms and a streamlined CMS.",
+    "image": "/images/projects/vinayak/cover.png",
+    "video": "/images/videos/vinayak/full.mp4",
+    "url": "https://vinayaktechnoplast.com",
+    "year": "2023",
+    "technologies": ["Next.js", "Sanity CMS", "Tailwind"]
+  },
+  {
+    "id": 10,
+    "title": "White Bands Lawyers",
+    "category": "Brand & Web",
+    "description": "Premium legal brand identity and website for White Bands Lawyers, positioning them as the go-to firm for corporate clients.",
+    "image": "/images/projects/whitebandslawyers/whitebandslawyers.png",
+    "video": "/images/videos/whitebandslawyers/full.mp4",
+    "url": "https://whitebandslawyers.com",
+    "year": "2024",
+    "technologies": ["Figma", "Next.js", "GSAP"]
+  },
+  {
+    "id": 11,
+    "title": "Yoshinova",
+    "category": "AI Product",
+    "description": "AI-powered market research tool that synthesises competitor data, trend signals and user sentiment into actionable strategy reports.",
+    "image": "/images/projects/yoshinova/yoshinova.png",
+    "video": "/images/videos/yoshinova/full.mp4",
+    "url": "https://yoshinova.ai",
+    "year": "2025",
+    "technologies": ["Python", "OpenAI", "Next.js", "Redis"]
+  }
+]

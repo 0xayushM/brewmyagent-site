@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "quote": "BrewMyAgent built our entire lead-gen automation in two weeks. We went from manually qualifying 50 leads a day to processing 500 — without hiring a single extra person.",
+    "author": "Rohan Mehta",
+    "title": "CEO",
+    "company": "Trident Systems",
+    "imageUrl": "/images/testimonials/mock_image1.jpeg"
+  },
+  {
+    "id": 2,
+    "quote": "The brand identity they created for us was exactly what we needed. Clean, bold, and professional — our conversions went up 40% after the rebrand.",
+    "author": "Priya Sharma",
+    "title": "Founder",
+    "company": "BeeBee Advisory",
+    "imageUrl": "/images/testimonials/mock_image2.png"
+  },
+  {
+    "id": 3,
+    "quote": "Their AI strategy consultation opened our eyes to opportunities we didn't even know existed. The roadmap they gave us has been our north star for the past year.",
+    "author": "Arjun Kapoor",
+    "title": "CTO",
+    "company": "Yoshinova",
+    "imageUrl": "/images/testimonials/mock_image3.jpeg"
+  },
+  {
+    "id": 4,
+    "quote": "We came in with a vague idea and left with a fully functional AI-powered MVP in six weeks. The team's execution speed is unreal.",
+    "author": "Neha Gupta",
+    "title": "Co-Founder",
+    "company": "Edhway",
+    "imageUrl": "/images/testimonials/mock_image4.png"
+  },
+  {
+    "id": 5,
+    "quote": "BrewMyAgent isn't just a vendor — they're a partner. They challenged our assumptions, pushed us to think bigger, and delivered something we're genuinely proud of.",
+    "author": "Sameer Joshi",
+    "title": "Director",
+    "company": "Beyond Space",
+    "imageUrl": "/images/testimonials/mock_image5.jpeg"
+  }
+]

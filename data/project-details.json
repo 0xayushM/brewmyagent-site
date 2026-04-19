@@ -1,0 +1,385 @@
+{
+  "projects": [
+    {
+      "slug": "edhway",
+      "title": "Edhway",
+      "subtitle": "AI Automation Platform",
+      "year": "2025",
+      "client": "Edhway",
+      "services": [
+        "Brand Identity",
+        "UI/UX Design",
+        "3D Development",
+        "Web Development"
+      ],
+      "description": "Edhway helps growing businesses automate repetitive work, connect broken workflows, and scale without burning teams out. We shaped a digital identity that captures their philosophy of unifying tools under a single, intelligent roof.",
+      "challenge": "The brand's story revolves around three guiding principles Excellence, Dharma, and Happiness fused into one integrated toolbox. The site had to translate that abstract triad into something tactile: an interface that felt both technical and human.",
+      "solution": "We anchored the experience around a hand-modelled 3D gear that rotates through Edhway's three values, reinforcing the idea of processes locking into one harmonious system. Motion, type and product surfaces were tuned to feel precise without losing warmth.",
+      "results": [
+        "Unified narrative that communicates three brand pillars at a glance",
+        "Custom 3D gear model that ties every section of the site together",
+        "Scalable design system ready for new product lines",
+        "Press-ready brand language for investor and customer conversations"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "Three.js",
+        "React Three Fiber",
+        "GSAP",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/edhway/cover.png"
+        }
+      ],
+      "liveUrl": "https://edhway.com",
+      "testimonial": {
+        "quote": "BrewMyAgent turned our philosophy into something you can feel the 3D gear alone communicates more about what we stand for than any deck could. He understood Edhway before most of our early team did.",
+        "author": "Shourya K. Chirania",
+        "position": "Founder & Chief AI Officer, Edhway"
+      }
+    },
+    {
+      "slug": "trident",
+      "title": "Trident",
+      "subtitle": "Seafood Brokerage & Export",
+      "year": "2026",
+      "client": "Trident International",
+      "services": [
+        "Web Design",
+        "Web Development",
+        "Content Strategy",
+        "Brand Communication"
+      ],
+      "description": "Trident International is a trusted seafood brokerage and export agent specialising in premium shrimp. Backed by a strong network of USFDA-certified packers across India, Ecuador, Indonesia, Vietnam and Argentina, they facilitate seamless exports into the US, China and EU markets with quality and transparency as the operating baseline.",
+      "challenge": "Seafood export is a trust business. Before writing a line of code, the site needed to read as credible, institutional and reliable not just to introduce Trident, but to substantiate them in front of international buyers making six- and seven-figure decisions.",
+      "solution": "We built the experience around the three signals that actually matter to buyers origin, certification and proof. Inspection reports, packaging visuals, packer footprint and real-time updates were brought forward as first-class content, turning the site into a live confidence layer rather than a brochure.",
+      "results": [
+        "Buyer-first information architecture focused on trust signals",
+        "Clear presentation of certifications, packers and origin corridors",
+        "Streamlined enquiry path for international wholesale buyers",
+        "A digital presence aligned with an institutional-grade operation"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vercel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/trident/trident.png"
+        }
+      ],
+      "liveUrl": "https://tridentintjp.com",
+      "testimonial": {
+        "quote": "In our business, buyers decide in minutes whether you look credible. The new site made that decision easy transparency and quality now come across before we even get on a call.",
+        "author": "Anand Agarwal",
+        "position": "Managing Director, Trident International"
+      }
+    },
+    {
+      "slug": "beyond-space",
+      "title": "Beyond Space",
+      "subtitle": "Aerospace R&D Platform",
+      "year": "2026",
+      "client": "Beyond Space Technologies",
+      "services": [
+        "Product Design",
+        "3D Development",
+        "Creative Direction",
+        "Web Development"
+      ],
+      "description": "Beyond Space is a global initiative dedicated to democratising aerospace research and innovation. Their mission is to make high-impact space research accessible, open and industry-relevant for students, researchers and innovators worldwide bridging academia, research and industry through hands-on programs that nurture real-world skills, IP creation and scientific publications.",
+      "challenge": "The site had to do something most aerospace pages fail at give the user a genuine sense of the frontier, while translating the institution's vision into something a student, researcher or industry partner could immediately align with.",
+      "solution": "We built an experience rooted in cinematic imagery and carefully composed graphics, pacing the scroll like a mission brief. Every section reinforces the brand's open, hands-on ethos from programs and publications down to IP collaboration opportunities without ever diluting the scale of ambition.",
+      "results": [
+        "A site that feels closer to a mission control than a marketing page",
+        "Clear alignment between institutional vision and user-facing content",
+        "Premium visual language matching the calibre of the research",
+        "Unified entry point for students, researchers and industry partners"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "Three.js",
+        "React Three Fiber",
+        "GSAP",
+        "TypeScript"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/beyondspace/cover.png"
+        }
+      ],
+      "liveUrl": "https://beyondspacetechnologies.com",
+      "testimonial": {
+        "quote": "Working with BrewMyAgent on the Beyond Space website was a seamless experience. He took a highly technical space and turned it into an experience that feels accessible, engaging, and aligned with our vision. His design sensibility and execution have played a key role in shaping our digital presence.",
+        "author": "Arjun Dabas",
+        "position": "CEO, Beyond Space Technologies"
+      }
+    },
+    {
+      "slug": "yoshinova",
+      "title": "Yoshinova",
+      "subtitle": "Battery Energy Storage Systems",
+      "year": "2026",
+      "client": "Yoshinova",
+      "services": [
+        "Web Design",
+        "3D Development",
+        "Data Visualisation",
+        "Web Development"
+      ],
+      "description": "Yoshinova takes a power-first, innovation-driven approach to developing, commercialising and operating the critical infrastructure that underpins the breakthrough technologies of today and tomorrow delivering Battery Energy Storage Systems (BESS) across residential, commercial, telecom, industrial and solar use cases.",
+      "challenge": "BESS is a technical, multi-vertical offering. The site had to make a layered engineering product feel tangible to five very different audiences, and clearly demonstrate the value BESS delivers against conventional power infrastructure.",
+      "solution": "We designed the experience around use-case storytelling each vertical gets its own dedicated model illustrating exactly where BESS fits in the flow, paired with graphical metrics that benchmark standard infrastructure against a BESS-enabled deployment. Technical depth meets visual clarity on every page.",
+      "results": [
+        "Dedicated 3D narrative for every vertical Yoshinova serves",
+        "Side-by-side data visualisations that translate engineering into value",
+        "A unified experience across residential, commercial and industrial audiences",
+        "Digital presence that matches the ambition of the infrastructure"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "Three.js",
+        "React Three Fiber",
+        "D3.js",
+        "GSAP",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/yoshinova/yoshinova.png"
+        }
+      ],
+      "liveUrl": "https://yoshinova.vercel.app",
+      "testimonial": {
+        "quote": "The site finally lets us show not just say why BESS outperforms conventional setups. Each vertical has its own story, and prospects arrive already speaking our language.",
+        "author": "Sandeep Agarwal",
+        "position": "Founder & CEO, Yoshinova"
+      }
+    },
+    {
+      "slug": "diksha-mahajan",
+      "title": "Diksha Mahajan",
+      "subtitle": "Fashion E-commerce",
+      "year": "2025",
+      "client": "Diksha Mahajan",
+      "services": [
+        "E-commerce Design",
+        "Web Development",
+        "SEO",
+        "Performance Optimisation"
+      ],
+      "description": "A bespoke e-commerce experience for fashion designer Diksha Mahajan, built to showcase her couture creations at full fidelity with a polished end-to-end buying and payment flow layered underneath.",
+      "challenge": "Fashion sells on image quality, but editorial-grade photo and video collapses web performance the moment it's mishandled. The brief was to deliver a gallery-level visual experience that still loaded fast, ranked well, and converted.",
+      "solution": "We built a performance-tuned storefront with modern image and video pipelines, priority-hinted assets, and SEO-structured product pages that feed both commerce and search discovery equally. The result: hero creative loads instantly, and every collection has its own indexable story.",
+      "results": [
+        "Lookbook-grade visuals without compromising page weight",
+        "Structured SEO foundation across collections and products",
+        "Frictionless checkout and payment journey",
+        "Clear path from discovery to purchase"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Stripe",
+        "GSAP",
+        "Vercel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/dikshamahajan/dikshamahajan.png"
+        }
+      ],
+      "liveUrl": "https://dikshamahajan.com",
+      "testimonial": {
+        "quote": "The site finally matches the quality of the clothes. Customers can feel the craft before they ever touch a piece and it loads as fast as any e-commerce site I've used.",
+        "author": "Diksha Mahajan",
+        "position": "Designer & Founder"
+      }
+    },
+    {
+      "slug": "grrk",
+      "title": "GRRK",
+      "subtitle": "Industrial Product Distribution",
+      "year": "2026",
+      "client": "GRRK",
+      "services": [
+        "Web Design",
+        "Web Development",
+        "SEO",
+        "Product Catalog"
+      ],
+      "description": "GRRK is a long-standing name in industrial product distribution and an officially authorised partner for some of the world's leading brands. What began as a small operation now anchors a global supply network serving industry with genuine, warranty-backed products.",
+      "challenge": "The site had to surface thousands of products in a way that felt immediate vendors and buyers needed to identify the right part in seconds and it had to rank for the specific, long-tail queries that drive industrial purchases.",
+      "solution": "We rebuilt the catalog around fast, filterable product discovery and paired it with a strong SEO foundation structured data, clean URLs, and performance tuned for the Core Web Vitals that move rankings. Every page was designed to be both a search entry point and a decision-making tool.",
+      "results": [
+        "Product discovery that gets buyers to the part they need in seconds",
+        "SEO-ready structure across thousands of SKUs",
+        "Credibility cues reinforcing GRRK's authorised-distributor status",
+        "A site built to scale alongside the catalog, not fight it"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "CMS",
+        "Vercel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/grrk/grrk.png"
+        }
+      ],
+      "liveUrl": "https://grrk.co.in",
+      "testimonial": {
+        "quote": "Our customers find what they need instantly now and the search visibility has put us exactly where we need to be. It feels like a tool built by someone who actually understands the industry.",
+        "author": "Chirag Thukral",
+        "position": "GRRK"
+      }
+    },
+    {
+      "slug": "whitebands-lawyers",
+      "title": "Whitebands Lawyers",
+      "subtitle": "Multidisciplinary Litigation Firm",
+      "year": "2026",
+      "client": "Whitebands Lawyers",
+      "services": [
+        "Web Design",
+        "Web Development",
+        "Brand Identity"
+      ],
+      "description": "Whitebands Lawyers is a premier multidisciplinary litigation firm based in India, built on a foundation of over 25 years of experience. The firm bridges traditional legal wisdom with modern, strategic thinking positioning itself as The Custodians of Your Legal Interests, and a true Intellectual Ally for clients navigating high-stakes matters.",
+      "challenge": "The firm needed a website that felt unmistakably premium yet approachable one that would reassure clients arriving at their most pivotal moments, without tipping into the visual clichés of the legal category.",
+      "solution": "We kept the language simple and the composition deliberate. Typography-led layouts, carefully chosen imagery and a restrained palette do the heavy lifting letting the firm's experience and voice lead, while giving prospective clients a calm, confident entry point.",
+      "results": [
+        "A visual language that reads as serious but never clinical",
+        "Clear surfacing of practice areas and partner expertise",
+        "Friction-free contact journey for prospective clients",
+        "Digital presence aligned with a 25-year legacy"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "CMS",
+        "Vercel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/whitebandslawyers/whitebandslawyers.png"
+        }
+      ],
+      "liveUrl": "https://whitebandslawyers.com",
+      "testimonial": {
+        "quote": "Clients arrive at our door under pressure. The new site meets them with the calm, clarity and gravitas our practice stands for it has become a genuine first impression of who we are.",
+        "author": "Satish Dabas",
+        "position": "Legal Head, Managing Partner Litigation & Legal Strategy, Whitebands Lawyers"
+      }
+    },
+    {
+      "slug": "beebee-advisory",
+      "title": "BeeBee Advisory",
+      "subtitle": "Financial Advisory & CFO Services",
+      "year": "2026",
+      "client": "BeeBee Advisory",
+      "services": [
+        "Web Design",
+        "Web Development",
+        "Digital Strategy",
+        "Content Architecture"
+      ],
+      "description": "Founded in 2016, BeeBee Advisory exists to give high-growth businesses access to the financial infrastructure they deserve. Their team of accountants, CFOs and financial strategists serves clients across North America, Europe and Asia delivering the precision of institutional finance with the partnership of a trusted advisor.",
+      "challenge": "The previous site read like a presentation deck static, generic, and unable to convey the depth of a modern CFO practice. The brief was clear: rebuild it to feel like a serious financial advisory platform that high-growth founders and CFOs would trust with their books.",
+      "solution": "We rearchitected the experience around their positioning financial backbone, not bookkeeper. Service narratives, regional footprint and deliverables were restructured into a clear hierarchy that prospects can navigate in minutes, with every surface reinforcing precision, accountability, and partnership.",
+      "results": [
+        "Repositioned from service-provider to strategic financial partner",
+        "Information architecture that mirrors how CFOs evaluate advisors",
+        "Clear separation of regional and service-specific offerings",
+        "A credibility layer fit for institutional-grade conversations"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vercel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/beebeeadvisory/beebeeadvisory.png"
+        }
+      ],
+      "liveUrl": "https://beebee-advisory1.vercel.app",
+      "testimonial": {
+        "quote": "BrewMyAgent understood the nuance between looking professional and looking credible. The new site does both our inbound conversations start from a completely different place now.",
+        "author": "Raghav Bansal",
+        "position": "Managing Partner, BeeBee Advisory"
+      }
+    },
+    {
+      "slug": "vinayak-technoplast",
+      "title": "Vinayak Technoplast",
+      "subtitle": "Precision Plastic Manufacturing",
+      "year": "2025",
+      "client": "Vinayak Technoplast",
+      "services": [
+        "Web Design",
+        "Web Development",
+        "Brand Storytelling",
+        "Lead Generation"
+      ],
+      "description": "Vinayak Technoplast is a premier one-stop ecosystem for the global plastic manufacturing industry. Inspired by the engineering vision of Mr. Arjun Kumar Agarwal (IIT-BHU) and driven by Mr. Sandeep Agarwal, the company moves far beyond traditional moulding delivering high-precision, turnkey solutions from concept design to final assemblies, all under one roof.",
+      "challenge": "The existing digital presence understated the depth of what Vinayak actually delivers. The site needed to communicate brand values, engineering integrity and the breadth of capability while turning itself into a genuine lead engine for international enquiries.",
+      "solution": "We rebuilt the site around a clear operational narrative from design and tooling through to assembly and layered in contextual CTAs and targeted enquiry forms at every decision point. The result is a site that feels like walking the shop floor, not reading a brochure.",
+      "results": [
+        "Cohesive brand narrative across services, capabilities and case studies",
+        "Multi-point enquiry funnels driving qualified B2B leads",
+        "Clear positioning as a turnkey manufacturing partner, not a job-work shop",
+        "Improved international discoverability for export-grade buyers"
+      ],
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "GSAP",
+        "Framer Motion"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/projects/vinayak/cover.png"
+        }
+      ],
+      "liveUrl": "https://vinayaktechnoplast.com",
+      "testimonial": {
+        "quote": "The new site captures the engineering precision we live by every day. Enquiries now come in far better qualified, and prospects arrive already understanding our scope.",
+        "author": "Sandeep Agarwal",
+        "position": "CEO, Vinayak Technoplast"
+      }
+    }
+  ]
+}

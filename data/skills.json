@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Custom AI Development",
+    "description": "We architect and build bespoke AI systems — from fine-tuned language models to multi-agent pipelines — engineered precisely for your business logic.",
+    "icon": "🤖"
+  },
+  {
+    "id": 2,
+    "title": "AI Automation",
+    "description": "We automate your repetitive workflows end-to-end. From data entry to complex multi-step processes, our agents handle it 24/7.",
+    "icon": "⚡"
+  },
+  {
+    "id": 3,
+    "title": "AI Strategy & Consultation",
+    "description": "Not sure where to start? We audit your operations, identify the highest-ROI AI opportunities, and hand you a clear roadmap to execution.",
+    "icon": "🧭"
+  },
+  {
+    "id": 4,
+    "title": "AI Powered MVP Development",
+    "description": "Go from idea to market in weeks, not months. We build lean, AI-powered MVPs that validate your concept and attract early users.",
+    "icon": "🚀"
+  },
+  {
+    "id": 5,
+    "title": "Generative AI Solutions",
+    "description": "Unlock the power of text, image, and code generation. We integrate state-of-the-art GenAI models into products your customers will love.",
+    "icon": "✨"
+  },
+  {
+    "id": 6,
+    "title": "AI Driven Data Insights",
+    "description": "Transform raw data into competitive advantage. Our AI analytics pipelines surface patterns, predict outcomes, and surface insights in real-time.",
+    "icon": "📊"
+  },
+  {
+    "id": 7,
+    "title": "Brand Design",
+    "description": "Logos, visual identities, and brand systems that are bold, memorable, and built to last. We make brands that stand out in any crowd.",
+    "icon": "🎨"
+  },
+  {
+    "id": 8,
+    "title": "Website Development",
+    "description": "Fast, beautiful, conversion-optimised websites built on modern stacks. From landing pages to full-scale web apps — we ship pixel-perfect.",
+    "icon": "🌐"
+  }
+]

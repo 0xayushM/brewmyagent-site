@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Ayush Mangal",
+    "role": "Founder & AI Engineer",
+    "bio": "Builder, tinkerer, and AI obsessive. Ayush leads product strategy and AI architecture, turning ambitious ideas into working systems.",
+    "image": "/images/team/ayush.png",
+    "social": {
+      "linkedin": "https://linkedin.com/in/ayushmangal",
+      "twitter": "https://twitter.com/0xayushm",
+      "github": "https://github.com/0xayushm"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Snehal",
+    "role": "Design Lead",
+    "bio": "Snehal crafts visual identities and interfaces that are as functional as they are beautiful. She believes good design is invisible — it just feels right.",
+    "image": "/images/team/snehal.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/snehal",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Vaibhav",
+    "role": "Full Stack Developer",
+    "bio": "Vaibhav turns complex requirements into clean, scalable code. He specialises in modern web stacks and integrating AI into production-grade applications.",
+    "image": "/images/team/vaibhav.jpeg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/vaibhav",
+      "github": "https://github.com/vaibhav"
+    }
+  }
+]
