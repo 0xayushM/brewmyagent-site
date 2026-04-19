@@ -31,7 +31,17 @@ const PageContent: React.FC<PageContentProps> = ({ variant }) => {
   );
 
   return (
-    <div style={{ width: '100%', background: isMasked ? '#EB5939' : 'transparent' }}>
+    <div
+      style={{
+        width: '100%',
+        // On the masked layer, set a safe default text colour so any element
+        // that doesn't explicitly override it inherits off-white (instead of
+        // the body's default #0A0A0A). This prevents "black text on orange"
+        // leaking through the cursor lens.
+        background: isMasked ? '#EB5939' : 'transparent',
+        color: isMasked ? '#FFFDF8' : undefined,
+      }}
+    >
 
       {/* ── HERO ── */}
       <section id={isMasked ? undefined : 'home'} className={`hero-section${isMasked ? '-masked' : ''} ${sec} min-h-screen flex flex-col`}>
